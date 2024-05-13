@@ -1,0 +1,69 @@
+.container-patient-preview {
+    width: 100%;
+    max-width: 600px; /* Adjust as needed */
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 15%;
+}
+
+.calendar-symbol-in-patient-preview,
+.clock-symbol-in-patient-preview {
+    font-size: 24px;
+    margin-right: 10px;
+}
+
+.patient-details-preview-booking {
+    margin-top: 20px;
+    text-align: left;
+   
+}
+
+.display-space {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.button-in-book-preview {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    border-radius: 16px;
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 10px;
+    cursor: pointer;
+}
+  
+  button:hover {
+    background-color: #9D9BCD;
+
+  }
+.display-space-preview-booking
+{
+    background-color:#fff;
+    border-radius: 15px;
+    text-align: center;
+}
+.button-in-book-preview
+{
+    width: 40%;
+}
+.patient-name-preview-booking,
+.patient-age-preview-booking,
+.patient-gender-preview-booking
+{
+    color: #9D9BCD;
+}
+.previousIcon
+{
+    margin-top: 0;
+}

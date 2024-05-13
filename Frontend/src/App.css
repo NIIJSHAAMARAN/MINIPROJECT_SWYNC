@@ -1,0 +1,33 @@
+/* app.css */
+
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(90deg, rgba(255,255,255,1) 7%, rgba(242,240,240,1) 20%, rgba(157,155,205,1) 100%);
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+button
+
+{
+  border-radius: 30px;
+  width: 90%;
+  left:5%;
+  height: 32px;
+}
+.backArrow {
+  width: 39px;
+  height: 31px;
+  margin-left: 10px;
+  margin-top: 10px;
+  border-radius:9px;
+  border-color: black;
+  background-color: #E5E5E5;
+}
+
+/* Add more global styles as needed */

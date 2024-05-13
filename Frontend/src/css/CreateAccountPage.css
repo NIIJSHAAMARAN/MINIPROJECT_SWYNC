@@ -1,0 +1,41 @@
+
+.centered-container-create-account {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .login-form {
+    width: 300px;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  input[type="text"],
+  input[type="tel"],
+  input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-sizing: border-box;
+  }
+  
+  .btn-create-account {
+    background-color:#bbbad6;
+    color: #fff;
+    cursor: pointer;
+    height: 36px;
+  }
+  
+  button:hover {
+    background-color: #9D9BCD;
+  }
+  h2{
+    color:#9D9BCD;
+  }
+  
+ 
